@@ -1,0 +1,2 @@
+# salarios
+Exercício de Ruby
